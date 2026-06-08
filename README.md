@@ -1,7 +1,12 @@
 # Infinity-OS
 Infinity OS is a platform-agnostic, modular command framework that unifies real-time telemetry, biometric synchronization, and AI-driven control across diverse exoskeleton architectures, providing a standardized, high-performance tactical dashboard for seamless human-machine integration and operator safety in complex robotic environments.
 
+
+
+
 THIS IS THE HTML CODE 
+
+
 
 <!DOCTYPE html>
 <html lang="en">
@@ -332,10 +337,14 @@ THIS IS THE HTML CODE
   </script>
 </body>
 </html>
+
+
 
 
 THIS IS THE CSS CODE 
 
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -665,6 +674,8 @@ THIS IS THE CSS CODE
   </script>
 </body>
 </html>
+
+
 
 
 THIS IS THE JAVASCRIPT CODE 
